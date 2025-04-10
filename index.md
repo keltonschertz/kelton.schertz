@@ -4,12 +4,12 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Airbnb Analyst](/(https://docs.google.com/spreadsheets/d/1aYtw-WM9Vil22JfNS7Y0fbX4CCUKeBmGqph6jvNbQv4/edit?usp=sharing))
+https://docs.google.com/spreadsheets/d/1aYtw-WM9Vil22JfNS7Y0fbX4CCUKeBmGqph6jvNbQv4/edit?usp=sharing
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[E-Commerce](/pdf/sample_presentation.pdf)
+<https://docs.google.com/spreadsheets/d/1t0mBmjcJwDonWfjLG-JDZcTv5spIrixuJPASA7NnS48/edit?usp=sharing>
 
 ---
 [Project 3 Title](http://example.com/)
